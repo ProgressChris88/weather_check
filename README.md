@@ -1,2 +1,3 @@
-# restaurants-page
-Odin Project Assignment to test Webpack and NPM knowledge.
+# Weather_Check
+
+Odin Project Assignment to test API Knowledge.
