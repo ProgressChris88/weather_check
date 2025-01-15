@@ -1,7 +1,7 @@
 {
-  "name": "restaurants-page",
+  "name": "weather_report",
   "version": "1.0.0",
-  "description": "Odin Project Assignment to test Webpack and NPM knowledge.",
+  "description": "Odin Project Assignment to test API.",
   "main": "webpack.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ProgressChris88/restaurants-page.git"
+    "url": "git+https://github.com/ProgressChris88/weather_check.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ProgressChris88/restaurants-page/issues"
+    "url": "https://github.com/ProgressChris88/weather_check/issues"
   },
-  "homepage": "https://github.com/ProgressChris88/restaurants-page#readme",
+  "homepage": "https://github.com/ProgressChris88/weather_check#readme",
   "devDependencies": {
     "css-loader": "^7.1.2",
     "html-loader": "^5.1.0",
